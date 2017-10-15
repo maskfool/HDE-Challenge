@@ -1,4 +1,0 @@
-The file with more human interactive funcs provides prompts to human, as well as error caused by illegal input, e.g. expecting integer
-but got characters, or input out of range.
-
-The file with core only provides the basic, which is consistent with what has been indicated in the sample
